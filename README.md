@@ -1,6 +1,6 @@
 # Hi 👋 I'm GAO TIANYU
 
-**M.S. Candidate in Computer Science** @ Hankuk University of Foreign Studies  
+**M.S. Student in Computer Science** @ Hankuk University of Foreign Studies  
 🔍 Research Focus: **Highly Occluded Face Restoration** | Computer Vision | Deep Learning
 
 ---
