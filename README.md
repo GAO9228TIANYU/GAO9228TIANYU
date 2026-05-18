@@ -18,8 +18,9 @@
 ---
 
 ### 🔭 Current Research
-- DeepLearning
-- Computer Vision
+- Image Inpainting
+- Object Detection
+- Multimodal AI
 
 ---
 
