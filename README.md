@@ -6,18 +6,18 @@ Hankuk University of Foreign Studies (HUFS), South Korea 🇰🇷
 
 🔍 **Research Interests:** Computer Vision · Multimodal AI · Deep Learning
 
-💻 **Engineering Interests:** Vision AI Systems · Edge AI · Model Deployment · Open-Source Software
+⚙️ **Engineering Interests:** Embedded AI · Edge AI · Model Optimization · Hardware-Aware Deployment
 
-I'm passionate about bridging the gap between AI research and real-world applications, from model development and optimization to practical deployment.
+I'm interested in building practical AI systems, from computer vision research and model development to efficient inference and deployment on embedded platforms.
 
 ---
 
-### 🔬 Research Interests
+### 🔬 Research & Engineering Interests
 
 - **Computer Vision** — Image restoration, object detection, and visual recognition.
 - **Multimodal AI** — Vision-language models, video understanding, and cross-modal retrieval.
-- **Applied Vision AI** — Vehicle recognition, license plate OCR, and real-world vision systems.
-- **Edge AI** — Efficient inference, model optimization, and deployment on edge devices.
+- **Applied Vision AI** — Vehicle recognition, license plate OCR, and real-world mobility applications.
+- **Embedded & Edge AI** — On-device inference, model conversion, hardware-aware optimization, and deployment on Qualcomm Snapdragon platforms.
 
 ---
 
@@ -30,6 +30,13 @@ I'm passionate about bridging the gap between AI research and real-world applica
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+
+**Embedded AI & Deployment**
+
+![Qualcomm](https://img.shields.io/badge/Qualcomm_Snapdragon-3253DC?style=for-the-badge)
+![QNN](https://img.shields.io/badge/Qualcomm_QNN-3253DC?style=for-the-badge)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 **Development & Tools**
 
@@ -49,11 +56,16 @@ Exploring multimodal video representations, natural-language video retrieval, an
 
 **Vision AI for Mobility Applications**
 
-Working on practical computer vision applications involving vehicle detection, license plate recognition, and OCR.
+Working on computer vision systems involving vehicle detection, license plate recognition, and OCR.
 
-**Edge AI Deployment** *(In Progress)*
+**Embedded Vision AI on Qualcomm Snapdragon** *(In Progress)*
 
-Exploring model conversion, inference optimization, and deployment workflows for resource-constrained devices.
+Exploring the deployment of computer vision models on Qualcomm Dragonwing / Snapdragon platforms, with a focus on:
+
+- PyTorch → ONNX → Qualcomm AI Runtime (QNN / QAIRT)
+- On-device inference using Hexagon DSP / NPU and Adreno GPU
+- Model quantization, runtime compatibility, and inference optimization
+- Latency, memory usage, and hardware-specific performance evaluation
 
 **Notchime — A Minimal macOS Notch Companion** *(In Development)*
 
@@ -72,8 +84,8 @@ A lightweight, privacy-conscious macOS application that brings Apple Calendar, R
 - **Email:** tianyu.gaospk@gmail.com
 - **GitHub:** [GAO9228TIANYU](https://github.com/GAO9228TIANYU)
 
-I'm open to discussions and collaborations in computer vision, multimodal AI, applied AI systems, and open-source development.
+I'm open to discussions and collaborations in computer vision, multimodal AI, embedded AI, and practical AI deployment.
 
 ---
 
-⭐ *Research. Build. Deploy.*
+⭐ *Research. Build. Optimize. Deploy.*
